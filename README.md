@@ -1,5 +1,8 @@
 # SpringBot: Your Friendly Personal AI
 
+<img width="2770" height="1536" alt="chatbot-ui-screenshot" src="https://github.com/user-attachments/assets/6434a1ef-8eeb-41a3-836f-f8a95dcb6f7e" />
+
+
 Welcome to the SpringBot project! This is a simple, full-stack application that brings together a Spring Boot backend and a clean, responsive React interface. 
 
 The goal here was to create a straightforward, powerful chatbot experience that you can easily run, customize, and make your own.
