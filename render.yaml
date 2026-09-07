@@ -4,9 +4,6 @@ services:
     env: docker
     dockerContext: ./backend
     dockerfilePath: ./backend/Dockerfile
-    envVars:
-      - key: SPRING_AI_OPENAI_API_KEY
-        value: "PLEASE_SET_IN_RENDER_DASHBOARD"
 
   - type: web
     name: react-ui
