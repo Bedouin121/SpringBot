@@ -1,6 +1,6 @@
-# Bedouin: Your Friendly Personal AI
+# SpringBot: Your Friendly Personal AI
 
-Welcome to the Bedouin project! This is a simple, full-stack application that brings together a Spring Boot backend and a clean, responsive React interface. 
+Welcome to the SpringBot project! This is a simple, full-stack application that brings together a Spring Boot backend and a clean, responsive React interface. 
 
 The goal here was to create a straightforward, powerful chatbot experience that you can easily run, customize, and make your own.
 
@@ -13,7 +13,7 @@ We've kept the project structure nice and simple:
 
 ## Running the App
 
-The easiest way to get Bedouin up and running is with Docker. We've automated the setup so you don't have to worry about the nitty-gritty:
+The easiest way to get SpringBot up and running is with Docker. We've automated the setup so you don't have to worry about the nitty-gritty:
 
 1.  **Build and Run**: Just run this in your terminal:
     ```bash
@@ -24,7 +24,7 @@ The easiest way to get Bedouin up and running is with Docker. We've automated th
     - **Frontend**: [http://localhost:3000](http://localhost:3000)
     - **Backend**: [http://localhost:8080](http://localhost:8080)
 
-## Modifying Bedouin
+## Modifying SpringBot
 
 We built this to be a playground for your ideas! Feel free to jump in and start customizing:
 - Want to change the UI? Head over to the `frontend` folder and play with the React components or CSS.
