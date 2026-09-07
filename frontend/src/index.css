@@ -1,0 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Work+Sans:wght@300;400;500;600&display=swap');
+
+html, body, #root { min-height: 100%; margin: 0; }
+body { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
