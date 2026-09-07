@@ -3,7 +3,8 @@ services:
     name: springboot-app
     env: docker
     dockerContext: ./backend
-    dockerfile: Dockerfile
+    # Dockerfile is at /backend/Dockerfile
+    dockerfilePath: ./backend/Dockerfile
     envVars:
       - key: SPRING_AI_OPENAI_API_KEY
         generate: true
@@ -12,4 +13,5 @@ services:
     name: react-ui
     env: docker
     dockerContext: ./frontend
-    dockerfile: Dockerfile
+    # Dockerfile is at /frontend/Dockerfile
+    dockerfilePath: ./frontend/Dockerfile
