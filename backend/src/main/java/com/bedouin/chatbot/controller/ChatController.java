@@ -1,4 +1,4 @@
-package in.vikasrajput.ai.chatbot.controller;
+package com.bedouin.chatbot.controller;
 
 import org.springframework.ai.chat.messages.UserMessage;
 import org.springframework.ai.chat.model.ChatResponse;

@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: springboot-app
+    env: docker
+    dockerContext: ./backend
+    dockerfile: Dockerfile
+    envVars:
+      - key: SPRING_AI_OPENAI_API_KEY
+        generate: true
+
+  - type: web
+    name: react-ui
+    env: docker
+    dockerContext: ./frontend
+    dockerfile: Dockerfile

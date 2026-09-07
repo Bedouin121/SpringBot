@@ -1,4 +1,4 @@
-package in.vikasrajput.ai.chatbot.config;
+package com.bedouin.chatbot.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

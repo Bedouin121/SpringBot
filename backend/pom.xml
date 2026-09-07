@@ -8,10 +8,10 @@
 		<version>3.3.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>in.vikasrajput.ai</groupId>
+	<groupId>com.bedouin</groupId>
 	<artifactId>chatbot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Spring Boot ChatBot</name>
+	<name>Spring Bot</name>
 	<description>Your friendly personal assistant powered by OpenAI</description>
 	<url/>
 	<licenses>

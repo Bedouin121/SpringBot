@@ -1,4 +1,4 @@
-package in.vikasrajput.ai.chatbot;
+package com.bedouin.chatbot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
